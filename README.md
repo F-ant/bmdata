@@ -8,3 +8,4 @@ Here are the notebooks made for the practical work. There are 5 sections :
   * [x] Simple and light GAN
   * [ ] Auto-encoder
   * [ ] Deep NLP
+  * [x] TP4 Face Emotion Recognition
