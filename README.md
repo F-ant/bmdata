@@ -1,6 +1,10 @@
 # Big Multimedia Data
 _An IMT Lille Douai course v2020_
 
+___Big Multimedia for Data Courses___
+
+Render from __Antoine Facchini__ and __Pierre Montroeul__
+
 Here are the notebooks made for the practical work. There are 5 sections :
   * [x] Convolutional networks
   * [ ] Caps neural networks
@@ -8,4 +12,4 @@ Here are the notebooks made for the practical work. There are 5 sections :
   * [x] Simple and light GAN
   * [ ] Auto-encoder
   * [ ] Deep NLP
-  * [x] TP4 Face Emotion Recognition
+  * [x] Face Emotion Recognition
