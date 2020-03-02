@@ -1,7 +1,5 @@
-# Big Multimedia Data
+# Big Multimedia For Data Science
 _An IMT Lille Douai course v2020_
-
-___Big Multimedia for Data Courses___
 
 Render from __Antoine Facchini__ and __Pierre Montroeul__
 
