@@ -5,7 +5,7 @@ Render from __Antoine Facchini__ and __Pierre Montroeul__
 
 Here are the notebooks made for the practical work. There are 5 sections :
   * [x] Convolutional networks
-  * [ ] Caps neural networks
+  * [x] Caps neural networks (not commented yet)
   * [x] RNN and LSTM
   * [x] Simple and light GAN
   * [ ] Auto-encoder
